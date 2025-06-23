@@ -1,6 +1,6 @@
-# Recipe Book Application - MERN Stack
+# Recipe Hub Application - MERN Stack
 
-Live Site URL : [Recipe Book](https://flavor-verse.netlify.app/)
+Live Site URL : N/A
 
 This project is a full-stack web application built using React for the frontend and Express.js with MongoDB for the backend. The frontend uses various packages such as Formik, Yup, FontAwesome, and React-Axios to create a sign-up page with form validation and file upload, a home page with a search bar to fetch data from Spoonacular API, and a profile page that displays user details and saved recipes.
 
@@ -23,7 +23,7 @@ Clone the repository to your local machine using the following command:
 
 bash
 Copy code
-git clone https://github.com/your-name/your-project-name.git
+git clone https://github.com/Jaivanth9/Recipie-Hub.git
 Navigate to the project directory:
 
 bash
@@ -131,5 +131,5 @@ https://github.com/prakash-s-2210/mern-recipe-book-app/assets/94909544/6ebb4392-
 
  ## Author
 
-- [Prakash S](https://www.linkedin.com/in/prakash2210/)
+- [Jaivanth Koppula](https://www.linkedin.com/in/jaivanth-koppula/)
 
